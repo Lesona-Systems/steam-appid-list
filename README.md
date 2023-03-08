@@ -1,0 +1,1 @@
+Fairly useless Steam App ID retriever.
