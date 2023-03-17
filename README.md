@@ -1,1 +1,1 @@
-Fairly useless Steam App ID retriever.
+Fairly useless Steam App ID retriever. Final .json is over 650,000 lines. You've been warned.
